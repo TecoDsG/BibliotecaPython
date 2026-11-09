@@ -1,0 +1,32 @@
+
+[project]
+site_name = "Biblioteca de Python"
+site_description = "Apuntes, explicaciones y ejemplos de Python"
+nav = [
+    "index.md",
+    { "Python" = [
+        { "00 - Introducción" = "Python/00_hello.md" },
+        { "01 - Variables" = "Python/01_variables.md" },
+        { "02 - Operadores" = "Python/02_operators.md" },
+        { "03 - Strings" = "Python/03_strings.md" },
+        { "04 - Listas" = "Python/04_lists.md" }
+    ]}
+]
+
+[project.theme]
+features = [
+    "navigation.sections",
+    "navigation.expand",
+    "content.code.copy"
+]
+
+[project.theme.palette]
+scheme = "slate"
+
+[project.markdown_extensions]
+pymdownx.snippets = {}
+pymdownx.highlight.anchor_linenums = true
+pymdownx.highlight.line_spans = "__span"
+pymdownx.highlight.pygments_lang_class = true
+pymdownx.inlinehilite = {}
+pymdownx.superfences = {}
