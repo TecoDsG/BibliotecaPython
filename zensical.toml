@@ -11,7 +11,8 @@ nav = [
         { "03 - Strings" = "Python/03_strings.md" },
         { "04 - Listas" = "Python/04_lists.md" },
         { "05 - Tuplas" = "Python/05_tuples.md" },
-        { "06 - Sets" = "Python/06_sets.md" }
+        { "06 - Sets" = "Python/06_sets.md" },
+        { "07 - Diccionarios" = "Python/07_dicts.md" }
     ]}
 ]
 
