@@ -1,7 +1,7 @@
 ### Listas ###
 
-my_list = list()
-my_other_list = []
+my_list = list() # Primera forma de definir una lista
+my_other_list = [] # Segunda forma de definir una lista (No poner (), ya que eso es una Tupla (ver Tuplas))
 
 print(len(my_list)) # 0
 
