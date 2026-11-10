@@ -1,4 +1,7 @@
-# Introducción a Python
+
+# Listas en Python
+
+En este apartado encontrarás la explicación de las listas en Python
 
 ## Código completo
 

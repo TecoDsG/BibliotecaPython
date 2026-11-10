@@ -1,4 +1,7 @@
-# Introducción a Python
+
+# Strings en Python
+
+En este apartado encontrarás la explicación de los strings.
 
 ## Código completo
 
