@@ -53,3 +53,13 @@ print(my_new_dict) # {'Nombre': None, 1: None, 'Piso': None}
 
 my_new_dict = dict.fromkeys(my_dict) # Crea un diccionario con las mismas claves que el anterior, pero no con sus valores
 print(my_new_dict) # {'Nombre': None, 'Apellido': None, 'Edad': None, 'Lenguajes': None, 1: None}
+
+my_values = my_new_dict.values() # Definimos una variable con los valores del diccionario my_new_dict
+print(type(my_values)) # <class 'dict_values'>
+
+print(my_new_dict.values()) # dict_values([None, None, None, None, None])
+print(list(my_new_dict.values())) # [None, None, None, None, None] --> Se define una lista con los valores del diccionario my_new_dict
+print(list(my_new_dict)) # ['Nombre', 'Apellido', 'Edad', 'Lenguajes', 1]
+print(tuple(my_new_dict)) # ('Nombre', 'Apellido', 'Edad', 'Lenguajes', 1)
+print(set(my_new_dict)) # {'Apellido', 1, 'Lenguajes', 'Edad', 'Nombre'}
+# Al Python tener un tipado dinámico (o débil), se puede cambiar el tipo muy fácilmente
