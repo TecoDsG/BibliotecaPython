@@ -9,7 +9,7 @@ nav = [
         { "01 - Variables" = "Python/01_variables.md" },
         { "02 - Operadores" = "Python/02_operators.md" },
         { "03 - Strings" = "Python/03_strings.md" },
-        { "04 - Listas" = "Python/04_lists.md" }
+        { "04 - Listas" = "Python/04_lists.md" },
         { "05 - Tuplas" = "Python/05_tuples.md" }
     ]}
 ]
