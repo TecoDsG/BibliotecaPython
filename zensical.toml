@@ -10,7 +10,8 @@ nav = [
         { "02 - Operadores" = "Python/02_operators.md" },
         { "03 - Strings" = "Python/03_strings.md" },
         { "04 - Listas" = "Python/04_lists.md" },
-        { "05 - Tuplas" = "Python/05_tuples.md" }
+        { "05 - Tuplas" = "Python/05_tuples.md" },
+        { "06 - Sets" = "Python/06_sets.md" }
     ]}
 ]
 
