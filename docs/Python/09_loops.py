@@ -7,7 +7,7 @@ my_condition = 0
 """
 El while ejecuta lo que  se le pone adentro
 siempre que se cumpla la condición.
-
+"""
 
 while my_condition <= 10:
     print(my_condition)
@@ -27,7 +27,7 @@ while my_condition < 20:
     print(my_condition)
 
 print("La ejecución continúa.")
-"""
+
 # For
 
 """
