@@ -14,7 +14,8 @@ nav = [
         { "06 - Sets" = "Python/06_sets.md" },
         { "07 - Diccionarios" = "Python/07_dicts.md" },
         { "08 - Condicionales" = "Python/08_conditionals.md" },
-        { "09 - Bucles" = "Python/09_loops.md" }
+        { "09 - Bucles" = "Python/09_loops.md" },
+        { "10 - Funciones" = "Python/10_functions.md" }
     ]}
 ]
 
